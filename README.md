@@ -26,7 +26,7 @@ Retrieves the Linux kernel state by reporting:
 - memory currently available
 - a list of load averages over a custom time interval set by the user. 
 
-<int> is the amount of seconds that elapsed before the program reads the next load average from kernel.
-<dur> is the duration, in seconds, in which the program should list the load averages. 
+\<int\> is the amount of seconds that elapsed before the program reads the next load average from kernel.
+\<dur\> is the duration, in seconds, in which the program should list the load averages. 
 
 
